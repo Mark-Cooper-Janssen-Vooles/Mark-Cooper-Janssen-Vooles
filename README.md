@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mark-Cooper-Janssen-Vooles
 - 👀 I’m interested in full stack web development
-- 🌱 I’m currently building out a pet project "Todolendar", check out Todolendar.API and Todolendar.UI for more info.
+- 🌱 I’m currently building out a pet project "[Todolendar](http://todolender-ui-s3-output.s3-website-ap-southeast-2.amazonaws.com/)", check out Todolendar.API and Todolendar.UI for more info.
 - 📫 Check out my on-going learnings page: https://markjanssen-webdev-learnings.netlify.app/
 
 <!---
