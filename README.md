@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mark-Cooper-Janssen-Vooles
-- 👀 I’m interested in full stack web development
+- 👀 I’m a web developer currently working predominantly with .NET, React and AWS
 - 🌱 Check out my on-going learnings page: https://markjanssen-webdev-learnings.netlify.app/
 
 <!---
